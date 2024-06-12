@@ -1,5 +1,7 @@
 ---
-title: Home
+layout: page
+title: "ABOUT-ME"
+permalink: /ABOUT-ME
 ---
 <!doctype html>
 <html>
